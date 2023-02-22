@@ -1,0 +1,142 @@
+Goodwill Labs
+
+----
+
+About 
+Group Members
+Group Recognition 
+Research
+Publications
+Open-source Artifacts
+Educational Outreach
+Community Service and Leadership
+Qurious (Quantum Computing)
+News
+
+-----
+
+About
+------
+
+Goodwill Lab's mission is making high performance computing (HPC) and quantum computing systems better and more accessible. 
+
+Goodwill Lab also focuses on preparing next generation of students and educators to take advantage of parallel computing systems to solve problems of societal importance. 
+
+Group Members
+-------------
+
+Everyone should have a photo (circle cut with home page and email links below in the second row)
+
+Devesh Tiwari
+
+PhD Thinkers
+
+Tirthak Patel  (Home page: Email:)
+Baolin Li
+Rohan Basu Roy 
+Ana Veroneze Solórzano 
+Jack Harwood 
+Harshitta Gandhi
+Dan Silver
+Aditya Ranjan
+Kausalya Sankaranarayanan
+Rui Li
+
+Undergraduate Explorers
+
+William Cutler
+Daniel Wang
+
+Goodwill Lab Friends
+
+Sidi Lu (PhD Candidate, Wayne State University)
+Rohan Garg (Nutanix)
+Janki Bhimani (Assistant Professor, Florida International University)
+Emily Costa (Indeed)
+Fritz Prevlion (ARM)
+
+Group Recognition 
+-----------------
+
+
+==Best Paper Recognition:
+
+Best Paper Award Finalist, Design Automation and Test in Europe (DATE) Conference, 2022.
+Outstanding Paper Award, 26th IEEE High Performance Extreme Computing (HPEC) Conference, 2022.
+Outstanding Student Paper Award, 25th IEEE High Performance Extreme Computing (HPEC) Conference, 2021.
+Best Paper Finalist, 33th IEEE/ACM Supercomputing (SC) Conference, 2020.
+Best Student Paper Finalist, 33th IEEE/ACM Supercomputing (SC) Conference, 2020.
+Best Paper Finalist, 39th IEEE/ACM International Conference On Computer Aided Design (ICCAD), 2020.
+Best Student Paper Finalist, 29th IEEE/ACM Supercomputing (SC) Conference, 2016.
+Best Paper Finalist, 44th IEEE/IFIP Dependable Systems and Networks (DSN) Conference, 2014.
+Best Paper Finalist, 27th IEEE/ACM Supercomputing (SC) Conference, 2014.
+Best Talk Award, 2012, IBM Student Workshop for Frontiers of Cloud Computing at IBM T J Watson Research Center, 2012.
+Best Paper Award Nominee, 26th IEEE Int’l Parallel & Distributed Processing Symposium (IPDPS), 2012.
+
+==Fellowship Awards and Honors
+
+University-wide Outstanding Graduate Student Award in Research (Northeastern University), 2022. Awarded to Tirthak Patel. Highest honor given to top 3-4 PhD students annually across all colleges and departments who have shown an exceptional ability to conduct high-level research and make contributions to the scholarly literature in their fields, 2022.
+
+ACM SIGHPC/Intel Computational & Data Science Fellowships Award, 2022. Awarded to Ana Solorzano. Awarded to a select group of early-stage graduate stu- dents who demonstrate excellence in both academic achievement and community leadership.
+
+COE MS Outstanding Leadership Award (Northeastern University), 2022. Awarded to Emily Costa by the College of Engineering for strong leadership skills during the program via experiential learning, research, and coursework, 2020.
+
+Northeastern University Nominee for the JP Morgan PhD Fellowship, 2022. Only two nominees allowed per University by JP Morgan (Rohan Basu Roy).
+
+Department Nominee for the Microsoft PhD Fellowship, 2022. Only four nominees allowed per academic department from a single University by Microsoft (Rohan Basu Roy).
+
+Northeastern University Nominee for the Google PhD Fellowship, 2022. Only four nominees allowed from a single University by Google (Baolin Li).
+
+ACM-IEEE CS George Michael Memorial HPC Award, 2021.
+Awarded to Tirthak Patel. Considered one of the top honors in the HPC research field for PhD students and given annually to 2-3 PhD students world-wide for sustained research excellence in the HPC field, 2021.
+
+Department Nominee for the Intel-ACM SIGHPC Computational & Data Science Fellowship, 2021. Only a single nominee allowed per academic department from a single University (Emily Costa).
+
+Northeastern University Nominee for the Google PhD Fellowship, 2021. Only a single nominee allowed per University by Google (Tirthak Patel).
+
+COE Outstanding Graduate Research Award (Northeastern University), 2020. Awarded to Tirthak Patel by the College of Engineering, Northeastern University, 2020.
+
+
+Publications 
+-------------
+
+See PDF
+
+
+
+Open-source Artifacts
+-------
+
+
+Besides peer-reviewed research publications, our group also makes our contributions available as open-source artifacts. Although not required by the publication venues, we make these artifacts available at the time of the publication of our regular peer-reviewed research publications. The goal behind making these contributions open-source are threefold: (1) expedite the research progress as a community, (2) lower the barrier to entry to new fields (e.g., quantum computing), and (3) promote research reproducibility. Our artifacts are often one of the largest of their kind, and introduce novel methods and datasets to the community – consequently, have been downloaded and used by hundreds of researchers around the world.
+
+􏲰 Ribbon: Cost-Effective and QoS-Aware Deep Learning Model Inference System http://doi.org/10.5281/zenodo.5037569
+􏲰 I/O Performance Variability Detection and Measurement Library https://doi.org/10.5281/zenodo.5236852
+􏲰 SATORI: Bayesian Optimization based multi-core resource partitioning framework for throughput-oriented workloads
+https://github.com/rohanbasuroy/satori
+􏲰 Failure dataset for two generations of GPU-accelerated supercomputers http://doi.org/10.5281/zenodo.4606221
+􏲰 BLISS: performance auto-tuning framework for parallel applications https://github.com/rohanbasuroy/bliss
+􏲰 QRAFT: quantum program output estimation framework using reversibility https://doi.org/10.5281/zenodo.4527305
+􏲰 GIFT: coupon-based I/O bandwidth allocation framework https://github.com/GoodwillComputingLab/GIFT
+􏲰 UREQA: machine learning based qubit allocation for quantum programs https://github.com/GoodwillComputingLab/UREQA
+ 
+􏲰 Wizard: machine learning based disk failure prediction framework and disk failure dataset
+  http://codegreen.cs.wayne.edu/wizard
+􏲰 Veritas: quantum program output estimation framework using post-processing of noisy runs
+https://doi.org/10.5281/zenodo.3958042
+􏲰 Quantum error and benchmarking dataset for IBM NISQ machines https://doi.org/10.5281/zenodo.3957894
+􏲰 HPC resource consumption dataset for multiple supercomputers and resource consumption prediction tool
+https://doi.org/10.5281/zenodo.3957897
+􏲰 DISQ: quantum output state classification toolbox using IBM OpenPulse https://github.com/GoodwillComputingLab/DISQ
+􏲰 CLITE: QoS framework for latency-critical microservices for data centers https://github.com/GoodwillComputingLab/CLITE
+􏲰 Power consumption traces of real-world applications on production HPC systems https://zenodo.org/record/3666632
+􏲰 SSD vibration and reliability dataset https://github.com/GoodwillComputingLab/SSDVibration
+􏲰 PERQ: power management framework for HPC systems https://github.com/GoodwillComputingLab/PERQ
+
+
+Educational Outreach
+----------------------
+
+Recently Taught Courses:
+
+
