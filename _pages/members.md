@@ -5,29 +5,33 @@ excerpt: "Goodwill Lab: Group members"
 sitemap: false
 permalink: /members/
 ---
+# Group Members
 
+### Principal Investigator
 
-## Principal Investigator
 <div class="row">
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ site.data.team_members.pi.photo }}" class="img-responsive" width="30%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ site.data.team_members.pi.photo }}" class="img-responsive" style="float: left; border-radius: 50%; height: 100px; width: 100px; object-fit: cover; overflow: hidden;" />
   <h4>{{ site.data.team_members.pi.name }}</h4>
   
   <i>{{ site.data.team_members.pi.email }}</i>
 </div>
 </div>
 
-## PhD Thinkers
+### PhD Thinkers
+
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members.phd %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
 {% if even_odd == 0 %}
+
 <div class="row">
 {% endif %}
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="30%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" style="float: left; border-radius: 50%; height: 100px; width: 100px; object-fit: cover; overflow: hidden;" />
+
   <h4>{{ member.name }}</h4>
   <a href="{{member.webpage}}" style="color: blue;">{{member.webpage}}</a>
   <i> <br> {{ member.email }}</i>
@@ -36,6 +40,7 @@ permalink: /members/
 {% assign number_printed = number_printed | plus: 1 %}
 
 {% if even_odd == 1 %}
+
 </div>
 {% endif %}
 
@@ -43,20 +48,23 @@ permalink: /members/
 
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
+
 </div>
 {% endif %}
 
-## Undergrad Explorers
+### Undergrad Explorers
+
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members.undergrad %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
 {% if even_odd == 0 %}
+
 <div class="row">
 {% endif %}
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="30%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" style="float: left; border-radius: 50%; height: 100px; width: 100px; object-fit: cover; overflow: hidden;" />
   <h4>{{ member.name }}</h4>
   <a href="{{member.webpage}}" style="color: blue;">{{member.webpage}}</a>
   <i> <br> {{ member.email }}</i>
@@ -65,6 +73,7 @@ permalink: /members/
 {% assign number_printed = number_printed | plus: 1 %}
 
 {% if even_odd == 1 %}
+
 </div>
 {% endif %}
 
@@ -72,10 +81,12 @@ permalink: /members/
 
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
+
 </div>
 {% endif %}
 
-## Goodwill Lab Friends
+### Goodwill Lab Friends
+
 <div class="row">
 
 <div class="col-sm-4 clearfix">

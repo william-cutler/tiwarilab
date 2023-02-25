@@ -4,7 +4,7 @@
 # PI for Principal Investigator
 
 pi:
-  name: Devesh Tiwari
+  name: Dr. Devesh Tiwari
   photo: rock.jpg
   email: name@example.com
 
@@ -13,42 +13,58 @@ phd:
     photo: tirthak_patel.jpg
     webpage: https://www.tirthakpatel.com/
     email: name@example.com
-  - name: First Last
-    photo: rock.jpg
-    webpage: mysite.com
-    email: last.f@northeastern.edu
-  - name: First Last
-    photo: rock.jpg
-    webpage: mysite.com
-    email: last.f@northeastern.edu
-  - name: First Last
-    photo: rock.jpg
-    webpage: mysite.com
-    email: last.f@northeastern.edu
-  - name: First Last
+
+  - name: Baolin Li
     photo: rock.jpg
     webpage: mysite.com
     email: last.f@northeastern.edu
 
+  - name: Rohan Basu Roy 
+    photo: rock.jpg
+    webpage: mysite.com
+    email: last.f@northeastern.edu
+
+  - name: Ana Veroneze Solórzano 
+    photo: rock.jpg
+    webpage: mysite.com
+    email: last.f@northeastern.edu
+
+  - name: Jack Harwood 
+    photo: rock.jpg
+    webpage: mysite.com
+    email: last.f@northeastern.edu
+
+  - name: Harshitta Gandhi
+    photo: tirthak_patel.jpg
+    webpage: https://www.tirthakpatel.com/
+    email: name@example.com
+
+  - name: Dan Silver
+    photo: rock.jpg
+    webpage: mysite.com
+    email: last.f@northeastern.edu
+
+  - name: Aditya Ranjan
+    photo: rock.jpg
+    webpage: mysite.com
+    email: last.f@northeastern.edu
+
+  - name: Kausalya Sankaranarayanan
+    photo: rock.jpg
+    webpage: mysite.com
+    email: last.f@northeastern.edu
+
+  - name: Rui Li
+    photo: rock.jpg
+    webpage: mysite.com
+    email: last.f@northeastern.edu
 
 undergrad:
   - name: William Cutler
     photo: william_cutler.jpg
     webpage: mysite.com
     email: cutler.wi@northeastern.edu
-  - name: First Last
-    photo: rock.jpg
-    webpage: mysite.com
-    email: last.f@northeastern.edu
-  - name: First Last
-    photo: rock.jpg
-    webpage: mysite.com
-    email: last.f@northeastern.edu
-  - name: First Last
-    photo: rock.jpg
-    webpage: mysite.com
-    email: last.f@northeastern.edu
-  - name: First Last
+  - name: Daniel Wang
     photo: rock.jpg
     webpage: mysite.com
     email: last.f@northeastern.edu
