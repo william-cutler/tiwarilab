@@ -8,7 +8,7 @@ permalink: /recognition/
 
 # Group Recognition
 
-### Best Paper Recognition:
+### Best Paper Recognition
 
 - Best Paper Award Finalist, Design Automation and Test in Europe (DATE) Conference, 2022.
 - Outstanding Paper Award, 26th IEEE High Performance Extreme Computing (HPEC) Conference, 2022.

@@ -1,0 +1,404 @@
+- year:
+  text: "2023"
+  elements:
+  - conference: "AAAI 2023"
+    paper: "SLIQ: Resource-Efficient Quantum Similarity Networks for Unlabeled Data on Noisy Quantum Computers."
+    link: "https://www.google.com"
+
+- year:  
+  text: "2022"
+  elements:
+  - conference: "SC 2022 (a)"
+    paper: "DayDream: Executing Dynamic Scientific Workflows on Serverless Platforms with Hot Starts."
+    link: ""
+
+  - conference: "SC 2022 (b)"
+    paper: "CHARTER: Identifying the Most-Critical Gate Operations in Quantum Circuits via Amplified Gate Reversibility."
+    link: ""
+
+  - conference: "AAAI 2022"
+    paper: "QUILT: Effective Multi-Class Classification on Quantum Computers Using an Ensemble of Diverse Quantum Classifiers."
+    link: ""
+
+  - conference: "ASPLOS 2022 (a)"
+    paper: "IceBreaker: warming serverless functions better with heterogeneity."
+    link: ""
+
+  - conference: "ASPLOS 2022 (b)"
+    paper: "QUEST: systematically approximating Quantum circuits for higher output fidelity."
+    link: ""
+
+  - conference: "ISCA 2022"
+    paper: "Geyser: a compilation framework for quantum computing with neutral atoms."
+    link: ""
+
+  - conference: "HPCA 2022"
+    paper: "AI-Enabling Workloads on Large-Scale GPU-Accelerated System: Characterization, Opportunities, and Implications."
+    link: ""
+
+  - conference: "PPoPP 2022"
+    paper: "Mashup: making serverless computing useful for HPC workflows via hybrid execution."
+    link: ""
+
+  - conference: "SOCC 2022"
+    paper: "MISO: Exploiting Multi-Instance GPU Capability on Multi-Tenant GPU Clusters."
+    link: ""
+
+  - conference: "NAACL 2022"
+    paper: "Great Power, Great Responsibility: Recommendations for Reducing Energy for Training Language Models."
+    link: ""
+
+  - conference: "DATE 2022 (a)"
+    paper: "OPTIC: A Practical Quantum Binary Classifier for Near-Term Quantum Computers."
+    link: ""
+
+  - conference: "DATE 2022 (b)"
+    paper: "Do Temperature and Humidity Exposures Hurt or Benefit Your SSDs?"
+    link: ""
+
+
+
+- year:
+  text: "2021"
+  elements:
+  - conference: "SC 2021 (a)"
+    paper: "Systematically Inferring I/O Performance Variability by Examining Repetitive Job Behavior."
+    link: ""
+
+  - conference: "SC 2021 (b)"
+    paper: "Ribbon: Cost-Effective and QoS-Aware Deep Learning Model Inference using a Diverse Pool of Cloud Computing Instances."
+    link: ""
+
+  - conference: "ISCA 2021"
+    paper: "SATORI: Efficient and Fair Resource Partitioning by Sacrificing Short-Term Benefits for Long-Term Gains."
+    link: ""
+
+  - conference: "HPCA 2021"
+    paper: "Operating Liquid-Cooled Large-Scale Systems: Long-Term Monitoring, Reliability Analysis, and Efficiency Measures."
+    link: ""
+
+  - conference: "DSN 2021"
+    paper: "Examining Failures and Repairs on Supercomputers with Multi-GPU Compute Nodes."
+    link: ""
+
+  - conference: "PLDI 2021"
+    paper: "BLISS: Auto-tuning Complex Applications Using A Pool of Diverse Lightweight Learning Models."
+    link: ""
+
+  - conference: "IISWC 2021"
+    paper: "Serverless Storage Scalability Challenges: Characterization, Implications, and Mitigation."
+    link: ""
+
+  - conference: "HPEC 2021"
+    paper: "Serving Machine Learning Inference Using Heterogeneous Hardware."
+    link: ""
+
+  - conference: "ASPLOS 2021"
+    paper: "QRAFT: Reverse Your Quantum Circuit and Know the Correct Program Output."
+    link: ""
+
+
+
+- year:
+  text: "2020"
+  elements:
+  - conference: "USENIX ATC 2020"
+    paper: "UREQA: Leveraging Operation-Aware Error Rates for Effective Quantum Circuit Mapping on NISQ-Era Quantum Computers."
+    link: ""
+
+  - conference: "USENIX FAST 2020 (a)"
+    paper: "GIFT: A Coupon Based Throttle-and-Reward Mechanism for Fair and Efficient I/O Bandwidth Management on Parallel Storage Systems."
+    link: ""
+
+  - conference: "USENIX FAST 2020 (b)"
+    paper: "Uncovering Access, Reuse, and Sharing Characteristics of I/O-Intensive Files on Large-Scale Production HPC Systems."
+    link: ""
+
+  - conference: "USENIX FAST 2020 (c)"
+    paper: "Making Disk Failure Predictions SMARTer!"
+    link: ""
+
+
+  - conference: "SC 2020 (a)"
+    paper: "VERITAS: Accurately Estimating the Correct Output on Noisy Intermediate-Scale Quantum Computers."
+    link: ""
+    
+  - conference: "SC 2020 (b)"
+    paper: "Experimental Evaluation of NISQ Quantum Computers: Error Measurement, Characterization, and Implications."
+    link: ""
+    
+  - conference: "SC 2020 (c)"
+    paper: "Job Characteristics on Large-Scale Systems: Long-Term Analysis, Quantification and Implications."
+    link: ""
+    
+  - conference: "ICCAD 2020"
+    paper: "DisQ: A Novel Quantum Output State Classification Method on IBM Quantum Computers using OpenPulse."
+    link: ""
+    
+  - conference: "HPCA 2020"
+    paper: "CLITE: Efficient and QoS-Aware Co-Location of Multiple Latency-Critical Jobs for Warehouse Scale Computers."
+    link: ""
+    
+  - conference: "IPDPS 2020"
+    paper: "What does the Power Consumption Behavior of HPC Jobs Reveal?"
+    link: ""
+    
+  - conference: "JSNAM 2020"
+    paper: "Resilience and Coevolution of Preferential Interdependent Networks."
+    link: ""
+    
+  - conference: "JMR 2020"
+    paper: "Comparing Performances of Five Distinct Automatic Classifiers for Fin Whale Vocalizations in Beamformed Spectrograms of Coherent Hydrophone Array."
+    link: ""
+    
+  - conference: "TDSC 2020"
+    paper: "Characterizing and Exploiting Soft Error Vulnerability Phase Behavior in GPU Applications."
+    link: ""
+
+
+- year:
+  text: "2019"
+  elements:
+  - conference: "TPDS 2019"
+    paper: "An Analysis Workflow-Aware Storage System for Multi-Core Active Flash Arrays."
+    link: ""
+
+  - conference: "SC 2019"
+    paper: "Revisiting I/O Behavior in Large-Scale Storage Systems: The Expected and the Unexpected."
+    link: ""
+
+  - conference: "HPDC 2019"
+    paper: "PERQ: Fair and Efficient Power Management of Power-Constrained Large-Scale Computing Systems."
+    link: ""
+
+  - conference: "DAC 2019"
+    paper: "What Does Vibration Do To Your SSD?"
+    link: ""
+
+  - conference: "CLOUD 2019"
+    paper: "Exploring Potential for Non-Disruptive Vertical Auto Scaling and Resource Estimation in Kubernetes."
+    link: ""
+
+  - conference: "ICAC 2019"
+    paper: "Characterizing Disk Health Degradation and Proactively Protecting Against Disk Failures for Reliable Storage Systems."
+    link: ""
+
+  - conference: "CCGrid 2019"
+    paper: "Towards Enabling Dynamic Resource Estimation and Correction for Improving Utilization in an Apache Mesos Cloud Environment."
+    link: ""
+
+  - conference: "DATE 2019"
+    paper: "PCFI: Program Counter Guided Fault Injection for Accelerating GPU Reliability Assessment."
+    link: ""
+
+
+- year:
+  text: "2018"
+  elements:
+  - conference: "BIGDATA 2018"
+    paper: "Reliability Characterization of Solid State Drives in a Scalable Production Datacenter."
+    link: ""
+
+  - conference: "ASONAM 2018"
+    paper: "Resilience and the Coevolution of Interdependent Multiplex Networks."
+    link: ""
+
+  - conference: "ICCCN 2018"
+    paper: "Exploring the Optimal Platform Configuration for Power-Constrained HPC Workflows."
+    link: ""
+
+  - conference: "DSN 2018 (a)"
+    paper: "Shiraz: Exploiting System Reliability and Application Resilience Characteristics to Improve Large Scale System Throughput."
+    link: ""
+
+  - conference: "DSN 2018 (b)"
+    paper: "Machine Learning Models for GPU Error Prediction in a Large Scale HPC System."
+    link: ""
+
+  - conference: "DSN 2018 (c)"
+    paper: "Understanding and Analyzing Interconnect Errors and Network Congestion on a Large Scale HPC System."
+    link: ""
+
+
+- year:
+  text: "2017"
+  elements:
+  - conference: "SC 2017 (a)"
+    paper: "Failures in Large Scale Systems: Long-Term Measurement, Analysis, and Implications."
+    link: ""
+
+  - conference: "SC 2017 (b)"
+    paper: "GUIDE: A Scalable Information Directory Service to Collect, Federate, and Analyze Logs for Operational Insights into a Leadership HPC Facility."
+    link: ""
+
+  - conference: "MASCOTS 2017 (a)"
+    paper: "Toward Managing HPC Burst Buffers Effectively: Draining Strategy to Regulate Bursty I/O Behavior."
+    link: ""
+
+  - conference: "MASCOTS 2017 (b)"
+    paper: "Characterizing Temperature, Power, and Soft-error Behaviors in Data Center Systems: Insights, Challenges, and Opportunities."
+    link: ""
+
+  - conference: "CLUSTER 2017"
+    paper: "Effective Running of End-to-end HPC Workflows on Emerging Heterogeneous Architectures."
+    link: ""
+
+  - conference: "MWSCAS 2017"
+    paper: "Combining Architectural Fault-injection and Neutron Beam Testing Approaches Toward Better Understanding of GPU Soft-error Resilience."
+    link: ""
+
+  - conference: "TECS 2017"
+    paper: "Compiler-directed Soft Error Detection and Recovery to Avoid DUE and SDC via Tail-DMR."
+    link: ""
+
+  - conference: "TOMPECS 2017"
+    paper: "Obtaining and Managing Answer Quality for Online Data-intensive Services."
+    link: ""
+
+
+- year:
+  text: "2016"
+  elements:
+  - conference: "SC 2016 (a)"
+    paper: "Granularity and the Cost of Error Recovery in Resilient AMR Scientific Applications."
+    link: ""
+
+  - conference: "SC 2016 (b)"
+    paper: "Compiler Directed Lightweight, Fine-grained, Guaranteed Recovery for Soft Error Resilience. (Best Student Paper Award Finalist)"
+    link: ""
+
+  - conference: "MICRO 2016"
+    paper: "Low-Cost Soft Error Resilience with Unified Data Verification and Fine-Grained Recovery for Acoustic Sensor Based Detection."
+    link: ""
+
+  - conference: "ICAC 2016"
+    paper: "Adaptive Power Profiling for Many-Core HPC Architectures."
+    link: ""
+
+  - conference: "DSN 2016"
+    paper: "Power-aware Checkpointing: Toward the Optimal Checkpointing Interval under Power Capping."
+    link: ""
+
+  - conference: "IPDPS 2016"
+    paper: "Reducing Waste in Large Scale Systems Through Introspective Analysis."
+    link: ""
+
+  - conference: "HPCA 2016"
+    paper: "A Large-Scale Study of Soft-Errors on GPUs in the Field."
+    link: ""
+
+
+
+- year:
+  text: "2015"
+  elements:
+  - conference: "SC 2015 (a)"
+    paper: "Reliability Lessons Learned From GPU Experience With The Titan Supercomputer at Oak Ridge Leadership Computing Facility."
+    link: ""
+
+  - conference: "SC 2015 (b)"
+    paper: "A Practical Approach to Reconciling Availability, Performance, and Capacity in Provisioning Extreme-scale Storage Systems."
+    link: ""
+
+  - conference: "SC 2015 (c)"
+    paper: "AnalyzeThis: An Analysis Workflow-Aware Storage System."
+    link: ""
+
+  - conference: "SC 2015 (d)"
+    paper: "Node Variability in Large-Scale Power Measurements: Perspectives from the Green500, Top500 and EEHPCWG."
+    link: ""
+
+  - conference: "ICAC 2015"
+    paper: "Ubora: Measuring and Managing Answer Quality for Online Data-Intensive Services."
+    link: ""
+
+  - conference: "DSN 2015"
+    paper: "Understanding and Exploiting Spatial Properties of System Failures on Extreme-Scale HPC Systems."
+    link: ""
+
+  - conference: "LCTES 2015"
+    paper: "Clover: Compiler Directed Lightweight Soft Error Resilience."
+    link: ""
+
+  - conference: "HPCA 2015"
+    paper: "Understanding GPU Errors on Large-scale HPC Systems and the Implications for System Design and Operation."
+    link: ""
+
+  - conference: "CUG 2015"
+    paper: "Experience with GPUs on the Titan Supercomputer from a Reliability, Performance and Power Perspective."
+    link: ""
+
+  - conference: "JPDC 2015"
+    paper: "Application Configuration Predication for Energy-Efficient Execution on Multicore Systems."
+    link: ""
+
+
+- year:
+  text: "2014"
+  elements:
+  - conference: "SC 2014"
+    paper: "Best Practices and Lessons Learned from Deploying and Operating Large-Scale Data-Centric Parallel File Systems."
+    link: ""
+
+  - conference: "DSN 2014"
+    paper: "Lazy Checkpointing: Exploiting Temporal Locality in Failures to Mitigate Checkpointing Overheads on Extreme-Scale Systems."
+    link: ""
+
+  - conference: "IPDPS 2014"
+    paper: "MapReuse: Reusing Computation in an In-Memory MapReduce System"
+    link: ""
+
+  - conference: "CUG 2014"
+    paper: "I/O Router Placement and Fine-Grained Routing on Titan to Support Spider II"
+    link: ""
+
+  - conference: "ICPADS 2014"
+    paper: "Improving Large-scale Storage System Performance via Topology-aware and Balanced Data Placement"
+    link: ""
+
+  - conference: "LUG 2014"
+    paper: "SSD Provisioning for Exascale Storage System: When, Where and How much?"
+    link: ""
+
+- year:
+  text: "2013 and before"
+  elements:
+  - conference: "FAST 2013"
+    paper: "Active Flash: Towards Energy-Efficient, In-Situ Data Analytics on Extreme-Scale Machine"
+    link: ""
+
+  - conference: "HotPower 2012"
+    paper: "Reducing Data Movement Cost using Energy-Efficient Active Computation on SSD"
+    link: ""
+
+  - conference: "IPDPS 2012"
+    paper: "Modeling and Analyzing Key Performance Factors of Shared Memory Map Reduce"
+    link: ""
+
+  - conference: "ISPASS 2012"
+    paper: "Architectural Characterization and Similarity Analysis of Sunspider and Google's V8 Javascript Benchmarks"
+    link: ""
+
+  - conference: "HPCA 2011"
+    paper: "HAQu: Hardware Accelerated Queueing for Fine-Grained Threading on a Chip Multi-Processor"
+    link: ""
+
+  - conference: "IPDPS 2010"
+    paper: "MMT: Exploiting Fine-Grained Parallelism in Dynamic Memory Management"
+    link: ""
+
+  - conference: "MEDEA Workshop PACT 2009"
+    paper: "Memory Management Thread for Heap Intensive Sequential Applications"
+    link: ""
+
+  - conference: "Wild and Crazy Idea Session 2009"
+    paper: "Explicit Sequential Programming for Implicit Parallel Performance on Many Cores"
+    link: ""
+
+  - conference: "Ceramics International 2009"
+    paper: "Simulation of Thermal and Electric Field Evolution during Spark Plasma Sintering"
+    link: ""
+
+  - conference: "Ceramics International 2009"
+    paper: "Is Weibull distribution the most appropriate statistical strength distribution for brittle materials?"
+    link: ""

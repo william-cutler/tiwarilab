@@ -1,0 +1,378 @@
+
+SC 2020 (b) Experimental Evaluation of NISQ Quantum Computers: Error Measurement,
+Characterization, and Implications.
+Best Paper Finalist, Best Student Paper Finalist
+Tirthak Patel, Abhay Potharaju, Baolin Li, Rohan Basu Roy, Devesh Tiwari, Pro-
+ceedings of the 33th IEEE/ACM Int’l Conference on High Performance Computing,
+Networking, Storage and Analysis (SC), 2020. Acceptance rate: 25%.
+SC 2020 (c) Job Characteristics on Large-Scale Systems: Long-Term Analysis, Quantification
+and Implications.
+Tirthak Patel, Zhengchun Liu, Rajkumar Kettimuthu, Paul Rich, William Allcock,
+Devesh Tiwari, Proceedings of the 33th IEEE/ACM Int’l Conference on High Performance
+Computing, Networking, Storage and Analysis (SC), 2020. Acceptance rate: 25%.
+ICCAD 2020 DisQ: A Novel Quantum Output State Classification Method on IBM Quantum
+Computers using OpenPulse.
+Best Paper Finalist
+Tirthak Patel, Devesh Tiwari, Proceedings of the 39thIEEE/ACM International
+Conference On Computer Aided Design (ICCAD),2020. Acceptance rate: 25%.
+HPCA 2020 CLITE: Ecient and QoS-Aware Co-Location of Multiple Latency-Critical Jobs for
+Warehouse Scale Computers.
+Tirthak Patel, Devesh Tiwari, Proceedings of the 26nd International Symposium on
+High-Performance Computer Architecture (HPCA), 2020. Acceptance rate: 19%.
+IPDPS 2020 What does the Power Consumption Behavior of HPC Jobs Reveal?
+Tirthak Patel, Adam Wagenhauser, Christopher Eibel, Timo Honig, Thomas Zeiser,
+Devesh Tiwari, Proceedings of the 34th IEEE International Parallel and Distributed
+Processing Symposium (IPDPS), 2020. Acceptance rate: 16% (acceptance rate for papers
+accepted in the first-round without revision).
+JSNAM
+2020
+Resilience and Coevolution of Preferential Interdependent Networks.
+Auroop Ganguly, Tanay Mehta, Tirthak Patel, Ravi Sundaram, Devesh Tiwari, Jour-
+nal of Social Network Analysis and Mining, Springer Vienna, 2020.
+JMR 2020 Comparing Performances of Five Distinct Automatic Classifiers for Fin Whale
+Vocalizations in Beamformed Spectrograms of Coherent Hydrophone Array.
+Heriberto Garcia, Trenton Couture, Amit Galor, Jessica M Topple, Wei Huang, De-
+vesh Tiwari and Purnima Ratilal, Journal of Remote Sensing, Multidisciplinary Digital
+Publishing Institute, 2020.
+TDSC 2020 Characterizing and Exploiting Soft Error Vulnerability Phase Behavior in GPU
+Applications.
+Fritz Previlon, Charu Kalra, Devesh Tiwari, David Kaeli IEEE Transactions on Dependable
+and Secure Computing, 2020.
+2019
+TPDS 2019 An Analysis Workflow-Aware Storage System for Multi-Core Active Flash Arrays.
+Hyogi Sim, Geo roy Vallee, Youngjae Kim, Sudharshan S. Vazhkudai, Devesh Ti-
+wari, Ali Butt, IEEE Transactions on Parallel and Distributed Systems, 2019.
+SC 2019 Revisiting I/O Behavior in Large-Scale Storage Systems: The Expected and the
+Unexpected.
+Tirthak Patel, Suren Byna, Glenn L. Lockwood, Devesh Tiwari, Proceedings of the
+32th IEEE/ACM Int’l Conference on High Performance Computing, Networking, Storage
+and Analysis (SC), 2019. Acceptance rate: 21%.
+HPDC 2019 PERQ: Fair and Ecient Power Management of Power-Constrained Large-Scale
+Computing Systems.
+Tirthak Patel, Devesh Tiwari, Proceedings of the 28th International Symposium
+on High-Performance Parallel and Distributed Computing (HPDC), 2019. Acceptance rate:
+21%.
+DAC 2019 What Does Vibration Do To Your SSD?
+Janki Bhimani, Tirthak Patel, Ningfang Mi, Devesh Tiwari, Proceedings of the 56th
+ACM/IEEE Design Automation Conference, June, 2019. Acceptance rate: 24%.
+CLOUD
+2019
+Exploring Potential for Non-Disruptive Vertical Auto Scaling and Resource Estima-
+tion in Kubernetes.
+Gourav Rattihalli, Madhusudhan Govindaraju, Hui Lu, Devesh Tiwari, Proceedings
+of 12th IEEE International Conference on Cloud Computing (CLOUD), 2019. Acceptance
+rate: 20%
+ICAC 2019 Characterizing Disk Health Degradation and Proactively Protecting Against Disk
+Failures for Reliable Storage Systems.
+Song Huang, Shuwen Liang, Song Fu, Weisong Shi, Devesh Tiwari, Hsing-bung
+Chen, Proceedings of 16th IEEE International Conference on Autonomic Computing (ICAC),
+2019. Acceptance rate: 27%
+CCGrid 2019 Towards Enabling Dynamic Resource Estimation and Correction for Improving
+Utilization in an Apache Mesos Cloud Environment.
+Gourav Rattihalli, Madhusudhan Govindaraju, Devesh Tiwari, Proceedings of 19th
+IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing (CCGRID),
+2019.
+DATE 2019 PCFI: Program Counter Guided Fault Injection for Accelerating GPU Reliability
+Assessment.
+Fritz G. Previlon, Charu Kalra, Devesh Tiwari, David R. Kaeli, Proceedings of the
+IEEE Design, Automation & Test in Europe Conference, March, 2019. Acceptance rate:
+25%
+2018
+BIGDATA
+2018
+Reliability Characterization of Solid State Drives in a Scalable Production Datacen-
+ter.
+Shuwen Liang, Zhi Qiao, Jacob Hochstetler, Song Huang, Song Fu, Weisong Shi,
+Devesh Tiwari, Hsing-Bung Chen, Bradley Settlemyer, David Montoya, Proceedings of the
+IEEE International Conference on Big Data (Big Data), Seattle, December 2018. Acceptance
+rate: 20%.
+ASONAM
+2018
+Resilience and the Coevolution of Interdependent Multiplex Networks.
+Tanay Mehta, Ravi Sundaram, Auroop Ganguly, Devesh Tiwari, Proceedings of the
+IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining
+(ASONAM 2018), Spain, August 2018. Acceptance rate: 15%.
+ICCCN 2018 Exploring the Optimal Platform Configuration for Power-Constrained HPC Work-
+flows.
+Kun Tang, Xubin He, Saurabh Gupta, Sudharshan Vazhkudai, Devesh Tiwari, Pro-
+ceedings of the 27th International Conference on Computer Communication and Networks
+(ICCCN), China, July 2018. Acceptance rate: 29%.
+DSN 2018
+(a)
+Shiraz: Exploiting System Reliability and Application Resilience Characteristics to
+Improve Large Scale System Throughput.
+Rohan Garg, Tirthak Patel, Gene Cooperman, Devesh Tiwari, Proceedings of the
+48th Annual IEEE/IFIP Int’l Conference on Dependable Systems and Networks (DSN 2018),
+Luxembourg, June 2018. Acceptance rate: 25%.
+DSN 2018
+(b)
+Machine Learning Models for GPU Error Prediction in a Large Scale HPC System.
+Bin Nie, Ji Xue, Saurabh Gupta, Tirthak Patel, Christian Engelmann, Evgenia Smirni,
+Devesh Tiwari, Proceedings of the 48th Annual IEEE/IFIP Int’l Conference on Dependable
+Systems and Networks (DSN 2018), Luxembourg, June 2018. Acceptance rate: 25%.
+DSN 2018
+(c)
+Understanding and Analyzing Interconnect Errors and Network Congestion on a
+Large Scale HPC System.
+Mohit Kumar, Saurabh Gupta, Tirthak Patel, Michael Wilder, Weisong Shi, Song
+Fu, Christian Engelmann, Devesh Tiwari, Proceedings of the 48th Annual IEEE/IFIP Int’l
+Conference on Dependable Systems and Networks (DSN 2018), Luxembourg, June 2018.
+Acceptance rate: 25%.
+2017
+SC 2017 (a) Failures in Large Scale Systems: Long-Term Measurement, Analysis, and Implica-
+tions.
+Saurabh Gupta, Tirthak Patel, Christian Engelmann, Devesh Tiwari, Proceedings of
+the 30th IEEE/ACM Int’l Conference on High Performance Computing, Networking, Storage
+and Analysis (SC), Denver, Colorado, November 2017. Acceptance rate: 18%.
+SC 2017 (b) GUIDE: A Scalable Information Directory Service to Collect, Federate, and Analyze
+Logs for Operational Insights into a Leadership HPC Facility.
+Sudharshan S. Vazhkudai, Ross Miller, Devesh Tiwari, Christopher Zimmer, Feiyi
+Wang, Sarp Oral, Raghul Gunasekaran, Deryl Steinert, Proceedings of the 30th IEEE/ACM
+Int’l Conference on High Performance Computing, Networking, Storage and Analysis (SC),
+Denver, Colorado, November 2017. Acceptance rate: 18%.
+MASCOTS
+2017 (a)
+Toward Managing HPC Burst Buers Eectively: Draining Strategy to Regulate
+Bursty I/O Behavior.
+Kun Tang, Ping Huang, Xubin He, Tao Lu, Sudharshan S. Vazhkudai, Devesh Ti-
+wari, Proceedings of the 25th IEEE International Symposium on Modeling, Analysis and
+Simulation of Computer and Telecommunication Systems (MASCOTS 2017), Ban, Canada, 
+September 2017. Acceptance rate: 24%.
+MASCOTS
+2017 (b)
+Characterizing Temperature, Power, and Soft-error Behaviors in Data Center
+Systems: Insights, Challenges, and Opportunities.
+Bin Nie, Ji Xue, Saurabh Gupta, Christian Engelmann, Evgenia Smirni, Devesh Ti-
+wari, Proceedings of the 25th IEEE International Symposium on Modeling, Analysis and
+Simulation of Computer and Telecommunication Systems (MASCOTS 2017), Ban, Canada, 
+September 2017. Acceptance rate: 24%.
+CLUSTER
+2017
+Eective Running of End-to-end HPC Workflows on Emerging Heterogeneous
+Architectures.
+Kun Tang, Devesh Tiwari, Saurabh Gupta, Sudharshan Vazhkudai, Xubin He, Pro-
+ceedings of the 19th IEEE International Conference on Cluster Computing (CLUSTER),
+Hawaii, September 2017. Acceptance rate: 30%.
+MWSCAS
+2017
+Combining Architectural Fault-injection and Neutron Beam Testing Approaches
+Toward Better Understanding of GPU Soft-error Resilience.
+Fritz G. Previlon, Babatunde Egbantan, Devesh Tiwari, Paolo Rech, David R. Kaeli,
+Proceedings of the 60th IEEE International Midwest Symposium on Circuits and Systems,
+August, 2017.
+TECS 2017 Compiler-directed Soft Error Detection and Recovery to Avoid DUE and SDC via
+Tail-DMR.
+Qingrui Liu, Changhee Jung, Dongyoon Lee, Devesh Tiwari, ACM Transactions on
+Embedded Computing Systems (TECS), 2017.
+TOMPECS
+2017
+Obtaining and Managing Answer Quality for Online Data-intensive Services.
+Jaimie Kelley, Christopher Stewart, Nathaniel Morris, Devesh Tiwari, Yuxiong He,
+and Sameh Elnikety, ACM Transactions on Modeling and Performance Evaluation of
+Computing Systems (TOMPECS), 2017.
+2016
+SC 2016 (a) Granularity and the Cost of Error Recovery in Resilient AMR Scientific Applications.
+Anshu Dubey, Hajime Fujita, Daniel Graves, Andrew Chien, Devesh Tiwari, Pro-
+ceedings of the 29th IEEE/ACM Int’l Conference on High Performance Computing,
+Networking, Storage and Analysis (SC), Salt Lake City, Utah, November 2016. Acceptance
+rate: 18%.
+SC 2016 (b) Compiler Directed Lightweight, Fine-grained, Guaranteed Recovery for Soft Error
+Resilience.
+Best Student Paper Award Finalist
+Qingrui Liu, Changhee Jung, Dongyoon Lee, Devesh Tiwari, Proceedings of the
+29th IEEE/ACM Int’l Conference on High Performance Computing, Networking, Storage
+and Analysis (SC), Salt Lake City, Utah, November 2016. Acceptance rate: 18%.
+MICRO 2016 Low-Cost Soft Error Resilience with Unified Data Verification and Fine-Grained
+Recovery for Acoustic Sensor Based Detection.
+Qingrui Liu, Changhee Jung, Dongyoon Lee, Devesh Tiwari, Proceedings of 49th
+IEEE/ACM International Symposium on Microarchitecture (MICRO), Taipei, Taiwan,
+October 2016. Acceptance rate: 21%.
+ICAC 2016 Adaptive Power Profiling for Many-Core HPC Architectures.
+Jaimie Kelley, Christopher Stewart, Devesh Tiwari, Saurabh Gupta, Proceedings of
+IEEE International Conference on Autonomic Computing (ICAC 2016), Wurzburg, Germany,
+July 2016.
+DSN 2016 Power-aware Checkpointing: Toward the Optimal Checkpointing Interval under
+Power Capping
+Kun Tang, Devesh Tiwari, Saurabh Gupta, Ping Huang, QiQi Lu, Christian Engel-
+mann, Xubin He, Proceedings of the 46th Annual IEEE/IFIP Int’l Conference on Dependable
+Systems and Networks (DSN 2016), France, June 2016. Acceptance rate: 22%
+IPDPS 2016 Reducing Waste in Large Scale Systems Through Introspective Analysis.
+Leonardo Bautista-Gomez, Ana Gainaru, Swann Perarnau, Devesh Tiwari, Saurabh
+Gupta, Franck Cappello, Christian Engelmann, Marc Snir, Proceedings of the 30th IEEE
+Int’l Parallel & Distributed Processing Symposium (IPDPS’16), Chicago, USA, May 2016.
+Acceptance rate: 24%.
+HPCA 2016 A Large-Scale Study of Soft-Errors on GPUs in the Field.
+Bin Nie, Devesh Tiwari, Saurabh Gupta, Evgenia Smirni, Jim Rogers, Proceedings
+of the 22nd International Symposium on High-Performance Computer Architecture (HPCA),
+March 2016. Acceptance rate: 24%.
+2015
+SC 2015 (a) Reliability Lessons Learned From GPU Experience With The Titan Supercomputer
+at Oak Ridge Leadership Computing Facility.
+Devesh Tiwari, Saurabh Gupta, George Gallarno, Jim Rogers, and Don Maxwell,
+Proceedings of the 28th IEEE/ACM Int’l Conference on High Performance Computing,
+Networking, Storage and Analysis (SC), Austin, Texas, November 2015. Acceptance rate:
+22%.
+SC 2015 (b) A Practical Approach to Reconciling Availability, Performance, and Capacity in
+Provisioning Extreme-scale Storage Systems.
+Lipeng Wan, Feiyi Wang, Sarp Oral, Devesh Tiwari, Sudharshan Vazhkudai, and
+Qing Cao, Proceedings of the 28th IEEE/ACM Int’l Conference on High Performance
+Computing, Networking, Storage and Analysis (SC), Austin, Texas, November 2015.
+Acceptance rate: 22%.
+SC 2015 (c) AnalyzeThis: An Analysis Workflow-Aware Storage System.
+Hyogi Sim, Youngjae Kim, Sudharshan Vazhkudai, Devesh Tiwari, Ali Anwar, Ali
+Butt, and Lavanya Ramakrishnan, Proceedings of the 28th IEEE/ACM Int’l Conference
+on High Performance Computing, Networking, Storage and Analysis (SC), Austin, Texas,
+November 2015. Acceptance rate: 22%.
+SC 2015 (d) Node Variability in Large-Scale Power Measurements: Perspectives from the
+Green500, Top500 and EEHPCWG.
+Thomas Scogland, Jonathan Azose, David Rohr, Suzanne Rivoire, Natalie Bates,
+Daniel Hackenberg, Torsten Wilde, Jim Rogers, Devesh Tiwariú, Proceedings of the 28th
+IEEE/ACM Int’l Conference on High Performance Computing, Networking, Storage and
+Analysis (SC), Austin, Texas, November 2015. Acceptance rate: 22%. úListed as a
+co-author, but not included in the paper meta-data due to the PC member author limit.
+ICAC 2015 Ubora: Measuring and Managing Answer Quality for Online Data-Intensive Services.
+Jaimie Kelley, Christopher Stewart, Devesh Tiwari, Yuxiong He, Sameh Elnikety,
+Nathaniel Morris, Proceedings of IEEE International Conference on Autonomic Computing
+(ICAC 2015), Grenoble, France, July 2015.
+DSN 2015 Understanding and Exploiting Spatial Properties of System Failures on Extreme-
+Scale HPC Systems.
+Saurabh Gupta, Devesh Tiwari, Christopher Jantzi, Jim Rogers, and Don Maxwell,
+Proceedings of the 45th Annual IEEE/IFIP Int’l Conference on Dependable Systems and
+Networks (DSN 2015), Brazil, June 2015. Acceptance rate: 22%.
+LCTES 2015 Clover: Compiler Directed Lightweight Soft Error Resilience.
+Qingrui Liu, Changhee Jung, Dongyoon Lee, and Devesh Tiwari, Proceedings of
+ACM SIGPLAN/SIGBED Conference on Languages, Compilers, Tools and Theory for
+Embedded Systems (LCTES 2015), Portland, Oregon, USA, June 2015. Acceptance rate:
+27%.
+HPCA 2015 Understanding GPU Errors on Large-scale HPC Systems and the Implications for
+System Design and Operation.
+Devesh Tiwari, Saurabh Gupta, Jim Rogers, Don Maxwell, Paolo Rech, Sudhar-
+shan Vazhkudai, Daniel Oliveira, Dave Londo, Nathan Debardeleben, Philippe Navaux,
+Luigi Carro, Arthur S. Bland, Proceedings of the 21st International Symposium on
+High-Performance Computer Architecture (HPCA), February 2015. Acceptance rate: 24%.
+CUG 2015 Experience with GPUs on the Titan Supercomputer from a Reliability, Performance
+and Power Perspective.
+Devesh Tiwari, Saurabh Gupta, Jim Rogers, and Don Maxwell, Proceedings of the
+Cray User Group Conference (CUG), 2015.
+JPDC 2015 Application Configuration Predication for Energy-Ecient Execution on Multicore
+Systems.
+Shinan Wang, Bing Luo, Weisong Shi, and Devesh Tiwari, Proceedings of the
+Journal of Parallel and Distributed Computing, 2015.
+2014
+SC 2014 Best Practices and Lessons Learned from Deploying and Operating Large-Scale
+Data-Centric Parallel File Systems.
+Best Paper Finalist (14 out of 394 papers)
+Sarp Oral, James Simmons, Jason Hill, Dustin Leverman, Feiyi Wang, Matt Ezell,
+Ross Miller, Doug Fuller, Raghul Gunasekaran, Youngjae Kim, Saurabh Gupta, Devesh
+Tiwari, Sudharshan Vazhkudai, James Rogers, David Dillow, Galen M. Shipman and Arthur
+S. Bland, Proceedings of the 27th IEEE/ACM Int’l Conference on High Performance
+Computing, Networking, Storage and Analysis (SC), New Orleans, Louisiana, November
+2014. Acceptance rate: 20%.
+DSN 2014 Lazy Checkpointing: Exploiting Temporal Locality in Failures to Mitigate Check-
+pointing Overheads on Extreme-Scale Systems.
+Best Paper Award Nominee (3 out of 180 papers)
+Devesh Tiwari, Saurabh Gupta and Sudharshan Vazhkudai, Proceedings of the 44th Annual
+IEEE/IFIP Int’l Conference on Dependable Systems and Networks (DSN 2014), Atlanta,
+Georgia, USA, June 2014. Top 2%.
+IPDPS 2014 MapReuse: Reusing Computation in an In-Memory MapReduce System
+Devesh Tiwari and Yan Solihin, Proceedings of the 28th IEEE Int’l Parallel & Dis-
+tributed Processing Symposium (IPDPS’14), Arizona, USA, May 2014. Acceptance rate:
+21%.
+CUG 2014 I/O Router Placement and Fine-Grained Routing on Titan to Support Spider II
+Matt Ezell, Dave Dillow, Sarp Oral, Feiyi Wang, Devesh Tiwari, Don Maxwell,
+Dustin Leverman and Jason Hill, Proceedings of the Cray User Group Conference (CUG),
+May, 2014.
+ICPADS
+2014
+Improving Large-scale Storage System Performance via Topology-aware and
+Balanced Data Placement
+Feiyi Wang, Sarp Oral, Saurabh Gupta, Devesh Tiwari, Sudharshan Vazhkudai,
+Proceedings of the 20th IEEE Int’l Conference on Parallel and Distributed Systems (ICPADS),
+2014. Acceptance rate: 29%.
+LUG 2014 SSD Provisioning for Exascale Storage System: When, Where and How much?
+Devesh Tiwari, Sarp Oral, Feiyi Wang, Saurabh Gupta and Josh Judd, Presenta-
+tion in the Lustre User Group Conference (LUG), April, 2014.
+2013 and before
+FAST 2013 Active Flash: Towards Energy-Ecient, In-Situ Data Analytics on Extreme-Scale
+Machine
+Devesh Tiwari, Simona Boboila, Sudharshan Vazhkudai, Youngjae Kim, Xiasong
+Ma, Peter Desnoyers and Yan Solihin, Proceedings of the 11th USENIX Conference on File
+and Storage Technologies (FAST ’13), California, USA, February 2013. Acceptance rate:
+19%.
+HotPower
+2012
+Reducing Data Movement Cost using Energy-Ecient Active Computation on SSD
+Devesh Tiwari, Sudharshan Vazhkudai, Youngjae Kim, Xiaosong Ma, Simona Boboila
+and Peter Desnoyers, 2012 USENIX Workshop on Power-Aware Computing and Systems
+(HotPower’12, co-located with OSDI’12), California, USA, October 2012.
+IPDPS 2012 Modeling and Analyzing Key Performance Factors of Shared Memory Map Reduce
+Best Paper Award Nominee
+Best Talk Award at IBM TJ Watson Student Cloud Computing Workshop
+Devesh Tiwari and Yan Solihin, Proceedings of the 26th IEEE Int’l Parallel & Distributed
+Processing Symposium (IPDPS’12), Shanghai, China, May 2012. Acceptance rate: 21%.
+ISPASS 2012 Architectural Characterization and Similarity Analysis of Sunspider and Google’s
+V8 Javascript Benchmarks
+Devesh Tiwari and Yan Solihin, Proceedings of International Symposium on Perfor-
+mance Analysis and System Software (ISPASS), April 2012. Acceptance rate: 30%.
+HPCA 2011 HAQu: Hardware Accelerated Queueing for Fine-Grained Threading on a Chip
+Multi-Processor
+Media Coverage in HPCWire, ACMTech News, PhyOrg
+Sanghoon Lee, Devesh Tiwari, Yan Solihin and James Tuck, Proceedings of Inter-
+national Conference on High Performance Computer Architecture (HPCA), February 2011.
+Acceptance rate: 18%.
+IPDPS 2010 MMT: Exploiting Fine-Grained Parallelism in Dynamic Memory Management
+Media Coverage in HPCWire, ACMTech News, PhyOrg
+Appeared on Slashdot.org
+Devesh Tiwari, Sanghoon Lee, James Tuck and Yan Solihin, Proceedings of Inter-
+national Parallel and Distributed Processing Symposium (IPDPS), April, 2010. Acceptance
+rate: 25%.
+MEDEA
+Workshop
+PACT 2009
+Memory Management Thread for Heap Intensive Sequential Applications
+Devesh Tiwari, Sanghoon Lee, James Tuck and Yan Solihin, Proceedings of 10th
+MEDEA Workshop, with PACT 2009.
+Wild and
+Crazy Idea
+Session
+Explicit Sequential Programming for Implicit Parallel Performance on Many Cores
+Devesh Tiwari and Yan Solihin, WACI Session, ASPLOS 2009.
+Ceramics
+International
+2009
+Simulation of Thermal and Electric Field Evolution during Spark Plasma Sintering
+Devesh Tiwari, Bikramjit Basu and Kaushik Biswas, Journal of Ceramics Interna-
+tional 2009.
+Ceramics
+International
+2009
+Is Weibull distribution the most appropriate statistical strength distribution for
+brittle materials?
+Bikramjit Basu, Devesh Tiwari and Debashish Kundu, Journal of Ceramics Interna-
+tional 2009.
+Open-source Artifacts
+Besides peer-reviewed research publications, our group also makes our contributions available
+as open-source artifacts. Although not required by the publication venues, we make these
+artifacts available at the time of the publication of our regular peer-reviewed research
+publications. The goal behind making these contributions open-source are threefold: (1)
+expedite the research progress as a community, (2) lower the barrier to entry to new fields
+(e.g., quantum computing), and (3) promote research reproducibility. Our artifacts are often
+one of the largest of their kind, and introduce novel methods and datasets to the community
+— consequently, have been downloaded and used by hundreds of researchers around the world.
+{Ribbon: Cost-Eective and QoS-Aware Deep Learning Model Inference System
+http://doi.org/10.5281/zenodo.5037569
+{I/O Performance Variability Detection and Measurement Library
+https://doi.org/10.5281/zenodo.5236852
+{SATORI: Bayesian Optimization based multi-core resource partitioning framework
+for throughput-oriented workloads
+https://github.com/rohanbasuroy/satori
+{Failure dataset for two generations of GPU-accelerated supercomputers
+http://doi.org/10.5281/zenodo.4606221
+{BLISS: performance auto-tuning framework for parallel applications
+https://github.com/rohanbasuroy/bliss
+{QRAFT: quantum program output estimation framework using reversibility
+https://doi.org/10.5281/zenodo.4527305
+{GIFT: coupon-based I/O bandwidth allocation framework
+https://github.com/GoodwillComputingLab/GIFT
+{UREQA: machine learning based qubit allocation for quantum programs
+https://github.com/GoodwillComputingLab/UREQA
