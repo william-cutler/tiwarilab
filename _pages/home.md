@@ -52,5 +52,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </div>
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NEU.jpg" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/sponsorpic/Logo_NEU.jpg" style="width: 210px">
 </figure>

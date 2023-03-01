@@ -1,7 +1,7 @@
 
 pi:
   name: Dr. Devesh Tiwari
-  photo: rock.jpg
+  photo: 
   email: name@example.com
 
 student_categories:
@@ -10,52 +10,52 @@ student_categories:
       - name: Tirthak Patel
         photo: tirthak_patel.jpg
         webpage: https://www.tirthakpatel.com/
-        email: name@example.com
+        email: tirthak.patel@rice.edu
 
       - name: Baolin Li
-        photo: rock.jpg
-        webpage:
-        email: last.f@northeastern.edu
+        photo: baolin_li.jpg
+        webpage: https://baolin-li.netlify.app/
+        email: li.baol@northeastern.edu
 
       - name: Rohan Basu Roy 
-        photo: rock.jpg
-        webpage:
-        email: last.f@northeastern.edu
+        photo: rohan_basuroy.jpg
+        webpage: https://rohanbasuroy.github.io/
+        email: basuroy.r@northeastern.edu
 
       - name: Ana Veroneze Solórzano 
-        photo: rock.jpg
-        webpage:
-        email: last.f@northeastern.edu
+        photo: ana_solarzano.jpg
+        webpage: http://linkedin.com/in/anavs/
+        email: 
 
       - name: Jack Harwood 
-        photo: rock.jpg
+        photo: 
         webpage:
-        email: last.f@northeastern.edu
+        email: FIX ME
 
       - name: Harshitta Gandhi
-        photo: tirthak_patel.jpg
+        photo: 
         webpage:
         email: name@example.com
 
       - name: Dan Silver
-        photo: rock.jpg
+        photo: 
         webpage: 
-        email: last.f@northeastern.edu
+        email: FIX ME
 
       - name: Aditya Ranjan
-        photo: rock.jpg
+        photo: 
         webpage:
-        email: last.f@northeastern.edu
+        email: FIX ME
 
       - name: Kausalya Sankaranarayanan
-        photo: rock.jpg
+        photo: kausalya_sankaranarayanan.jpg
         webpage:
-        email: last.f@northeastern.edu
+        email: sankaranarayanan.k@northeastern.edu
 
       - name: Rui Li
-        photo: rock.jpg
+        photo: 
         webpage: 
-        email: last.f@northeastern.edu
+        email: FIX ME
 
   # - text: "Master Doers"
   #   individuals:
@@ -64,12 +64,13 @@ student_categories:
     individuals:
       - name: William Cutler
         photo: william_cutler.jpg
-        webpage: 
+        webpage: https://www.linkedin.com/in/william-r-cutler/
         email: cutler.wi@northeastern.edu
+
       - name: Daniel Wang
-        photo: rock.jpg
+        photo: 
         webpage: 
-        email: last.f@northeastern.edu
+        email: FIX ME
 
 friends:
   - name: Sidi Lu

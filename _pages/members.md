@@ -32,10 +32,14 @@ permalink: /members/
   <div class="row">
   {% endif %}
   <div class="col-sm-6 clearfix">
+  {% if member.photo == nil %}
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/bio-photo.jpg" class="img-responsive" style="float: left; border-radius: 50%; height: 100px; width: 100px; object-fit: cover; overflow: hidden;" />  
+  {% else %}
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" style="float: left; border-radius: 50%; height: 100px; width: 100px; object-fit: cover; overflow: hidden;" />
+  {% endif %}
   <h4>{{ member.name }}</h4>
   {% if member.webpage == nil %}
-  <a href="{{ site.url }}{{ site.baseurl }}/" style="color: red;">Home Page</a>
+  <a href="{{ site.url }}{{ site.baseurl }}/" style="color: blue;">Home Page</a>
   {% else %}
   <a href="{{ member.webpage }}" style="color: blue;">Home Page</a>
   {% endif %}
