@@ -78,6 +78,13 @@ firstp {
 .col-sm-4 {
 	padding-left: 26px;
 	padding-right: 26px;
+	// min-width: fit-content;
+}
+
+/* Grid overrides */
+.col-sm-5 {
+	padding-left: 26px;
+	padding-right: 26px;
 	min-width: fit-content;
 }
 
@@ -92,3 +99,26 @@ firstp {
     margin-right: 30px;
 }
 
+#carousel .carousel-inner {
+	height: 400px; /* Set a fixed height for the carousel */
+}
+  
+#carousel .carousel-inner img {
+	height: 100%;
+	width: auto;
+	object-fit: cover; /* Scale the image up while maintaining aspect ratio */
+	object-position: center; /* Center the image within its container */
+}
+
+.video-container {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	margin-bottom: 30px;
+  }
+  .video-container iframe {
+	margin-bottom: 20px;
+	margin-left: auto; /* add this line */
+	margin-right: auto; /* add this line */
+	max-width: 960px; /* adjust to desired max width */
+  }

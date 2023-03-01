@@ -18,31 +18,36 @@ permalink: /members/
 </div>
 </div>
 
-### PhD Thinkers
+{% for student_group in site.data.team_members.student_categories %}
+
+  <h3>{{ student_group.text }}</h3>
 
 {% assign number_printed = 0 %}
-{% for member in site.data.team_members.phd %}
+{% for member in student_group.individuals %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
 {% if even_odd == 0 %}
 
-<div class="row">
-{% endif %}
-<div class="col-sm-6 clearfix">
+  <div class="row">
+  {% endif %}
+  <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" style="float: left; border-radius: 50%; height: 100px; width: 100px; object-fit: cover; overflow: hidden;" />
-
   <h4>{{ member.name }}</h4>
-  <a href="{{member.webpage}}" style="color: blue;">{{member.webpage}}</a>
-  <i> <br> {{ member.email }}</i>
-</div>
+  {% if member.webpage == nil %}
+  <a href="{{ site.url }}{{ site.baseurl }}/" style="color: red;">Home Page</a>
+  {% else %}
+  <a href="{{ member.webpage }}" style="color: blue;">Home Page</a>
+  {% endif %}
+  <i>{{ member.email }}</i>
+  </div>
 
-{% assign number_printed = number_printed | plus: 1 %}
+  {% assign number_printed = number_printed | plus: 1 %}
 
-{% if even_odd == 1 %}
+  {% if even_odd == 1 %}
 
-</div>
-{% endif %}
+  </div>
+  {% endif %}
 
 {% endfor %}
 
@@ -51,45 +56,14 @@ permalink: /members/
 
 </div>
 {% endif %}
-
-### Undergrad Explorers
-
-{% assign number_printed = 0 %}
-{% for member in site.data.team_members.undergrad %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
-
-<div class="row">
-{% endif %}
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" style="float: left; border-radius: 50%; height: 100px; width: 100px; object-fit: cover; overflow: hidden;" />
-  <h4>{{ member.name }}</h4>
-  <a href="{{member.webpage}}" style="color: blue;">{{member.webpage}}</a>
-  <i> <br> {{ member.email }}</i>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-
-</div>
-{% endif %}
-
 {% endfor %}
 
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-
-</div>
-{% endif %}
 
 ### Goodwill Lab Friends
 
 <div class="row">
 
-<div class="col-sm-4 clearfix">
+<div class="col-sm-5 clearfix">
 {% for member in site.data.team_members.friends %}
 <b>{{ member.name }}</b>, {{member.info}}
 {% endfor %}

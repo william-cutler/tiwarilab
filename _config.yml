@@ -10,7 +10,7 @@ title: The Tiwari Lab
 email: d.tiwari@northeastern.edu
 description: > # this means to ignore newlines until "baseurl:"
   Website of the TiwariLab.
-baseurl: "/tiwarilab"
+baseurl: ""
 url: ""
 
 include:

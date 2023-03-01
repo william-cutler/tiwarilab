@@ -1,73 +1,75 @@
-# U for Undergrad
-# PHD for PhD
-# F for Friend of Goodwill Labs
-# PI for Principal Investigator
 
 pi:
   name: Dr. Devesh Tiwari
   photo: rock.jpg
   email: name@example.com
 
-phd:
-  - name: Tirthak Patel
-    photo: tirthak_patel.jpg
-    webpage: https://www.tirthakpatel.com/
-    email: name@example.com
+student_categories:
+  - text: "Ph.D. Thinkers"
+    individuals:
+      - name: Tirthak Patel
+        photo: tirthak_patel.jpg
+        webpage: https://www.tirthakpatel.com/
+        email: name@example.com
 
-  - name: Baolin Li
-    photo: rock.jpg
-    webpage: mysite.com
-    email: last.f@northeastern.edu
+      - name: Baolin Li
+        photo: rock.jpg
+        webpage:
+        email: last.f@northeastern.edu
 
-  - name: Rohan Basu Roy 
-    photo: rock.jpg
-    webpage: mysite.com
-    email: last.f@northeastern.edu
+      - name: Rohan Basu Roy 
+        photo: rock.jpg
+        webpage:
+        email: last.f@northeastern.edu
 
-  - name: Ana Veroneze Solórzano 
-    photo: rock.jpg
-    webpage: mysite.com
-    email: last.f@northeastern.edu
+      - name: Ana Veroneze Solórzano 
+        photo: rock.jpg
+        webpage:
+        email: last.f@northeastern.edu
 
-  - name: Jack Harwood 
-    photo: rock.jpg
-    webpage: mysite.com
-    email: last.f@northeastern.edu
+      - name: Jack Harwood 
+        photo: rock.jpg
+        webpage:
+        email: last.f@northeastern.edu
 
-  - name: Harshitta Gandhi
-    photo: tirthak_patel.jpg
-    webpage: https://www.tirthakpatel.com/
-    email: name@example.com
+      - name: Harshitta Gandhi
+        photo: tirthak_patel.jpg
+        webpage:
+        email: name@example.com
 
-  - name: Dan Silver
-    photo: rock.jpg
-    webpage: mysite.com
-    email: last.f@northeastern.edu
+      - name: Dan Silver
+        photo: rock.jpg
+        webpage: 
+        email: last.f@northeastern.edu
 
-  - name: Aditya Ranjan
-    photo: rock.jpg
-    webpage: mysite.com
-    email: last.f@northeastern.edu
+      - name: Aditya Ranjan
+        photo: rock.jpg
+        webpage:
+        email: last.f@northeastern.edu
 
-  - name: Kausalya Sankaranarayanan
-    photo: rock.jpg
-    webpage: mysite.com
-    email: last.f@northeastern.edu
+      - name: Kausalya Sankaranarayanan
+        photo: rock.jpg
+        webpage:
+        email: last.f@northeastern.edu
 
-  - name: Rui Li
-    photo: rock.jpg
-    webpage: mysite.com
-    email: last.f@northeastern.edu
+      - name: Rui Li
+        photo: rock.jpg
+        webpage: 
+        email: last.f@northeastern.edu
 
-undergrad:
-  - name: William Cutler
-    photo: william_cutler.jpg
-    webpage: mysite.com
-    email: cutler.wi@northeastern.edu
-  - name: Daniel Wang
-    photo: rock.jpg
-    webpage: mysite.com
-    email: last.f@northeastern.edu
+  # - text: "Master Doers"
+  #   individuals:
+
+  - text: "Undergraduate Explorers"
+    individuals:
+      - name: William Cutler
+        photo: william_cutler.jpg
+        webpage: 
+        email: cutler.wi@northeastern.edu
+      - name: Daniel Wang
+        photo: rock.jpg
+        webpage: 
+        email: last.f@northeastern.edu
 
 friends:
   - name: Sidi Lu
